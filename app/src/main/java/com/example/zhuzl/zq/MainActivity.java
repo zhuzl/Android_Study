@@ -16,7 +16,7 @@ import android.content.Intent;
 //import android.widget.;
 
 import static android.R.attr.button;
-
+//注释测试
 public class MainActivity extends AppCompatActivity {
 
     @Override
